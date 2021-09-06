@@ -14,6 +14,8 @@
 > - All cost management tools are deployed within one month of subscription.
 > - **7 out of 8** clients here at Vecta Corp are committed to long time contracts.
 
+<br>
+
 >  *Everything* including tools and software are installed within 6 month to all company computers .
 
 <br>
