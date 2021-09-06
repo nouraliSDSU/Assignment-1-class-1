@@ -24,7 +24,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;#### Average Growth of our current clients ####
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4> Average Growth of our current clients </h4>
 
 <img src="images/growth.jpg" width="500" height=300>
 
