@@ -14,6 +14,6 @@
 
 >  *Everything* including tools and software are installed within 6 month to all company computers .
 
-<img src="images/growth.jpg" width="350" height=300>
+<img src="images/growth.jpg" width="500" height=300>
 
 
