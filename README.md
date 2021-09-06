@@ -1,2 +1,2 @@
-# Assignment-1
- CS648 Assignment 1
+# Welcome to Vecta Corp #
+
