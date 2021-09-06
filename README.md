@@ -2,9 +2,9 @@
 
 ### Acheive scalable business with 3 easy solutions ###  
 
->> 1. Revenue Increase
->> 2. Cost Management
->> 3. User Satisfaction  
+>> - [x] 1. Revenue Increase
+>> - [x] 2. Cost Management
+>> - [x] 3. User Satisfaction  
 
 > ##### Average quarterly results for our clients increase by 40 percent!
 >
