@@ -6,6 +6,8 @@
 >> - [x] 2. Cost Management
 >> - [x] 3. User Satisfaction  
 
+<br>
+
 > ##### Average quarterly results for our clients increase by 40 percent!
 >
 > - Revenue increase are expected to grow within *3 month*.
@@ -13,6 +15,7 @@
 > - **7 out of 8** clients here at Vecta Corp are committed to long time contracts.
 
 >  *Everything* including tools and software are installed within 6 month to all company computers .
+
 <br>
 
 #### Average Growth of our current clients ####
