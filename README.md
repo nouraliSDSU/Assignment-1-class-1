@@ -14,4 +14,6 @@
 
 >  *Everything* including tools and software are installed within 6 month to all company computers .
 
+![Chart](<images growth.png>)
+
 
