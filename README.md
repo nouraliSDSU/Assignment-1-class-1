@@ -24,7 +24,7 @@
 
 <br>
 
-#### Average Growth of our current clients ####
+&nbsp;&nbsp;&nbsp;&nbsp;#### Average Growth of our current clients ####
 
 <img src="images/growth.jpg" width="500" height=300>
 
